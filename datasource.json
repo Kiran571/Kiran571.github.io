@@ -1,0 +1,19 @@
+
+
+{
+      "scheduleData" : [{
+      "Id": 1,
+      "Subject": "mira road",
+      "StartTime": "new Date(2021, 10, 26, 10, 0)",
+      "EndTime": "new Date(2021, 10, 26, 12, 30)",
+      "location": "mandup"
+  },
+  {
+      "Id": 2,
+      "Subject": "Mumbai",
+      "StartTime": "new Date(2021, 10, 25, 10, 0)",
+      "EndTime": "new Date(2021, 10, 25, 12, 30)",
+      "location": "thane"
+    }]
+    
+}
